@@ -1,4 +1,4 @@
-# Atelier électronique et programmation avec microcontrôleur ARDUINO #
+# Atelier électronique et programmation avec module ARDUINO #
 
 Pour une description de l'atelier, voir le fichier [Descrition.pdf](Description.pdf).
 
